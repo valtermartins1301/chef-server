@@ -1,0 +1,13 @@
+
+----------- Requisitos Funcionais ------------
+RF001	Gerenciamento de Usuário	O sistema deve permitir o gerenciamento de usuário.
+RF002	Gerenciamento de Entregador	O sistema deve permitir o gerenciamento de entregador.
+RF003	Gerenciamento de Produto	O sistema deve permitir o gerenciamento de produto.
+RF004	Gerenciamento de Cliente	O sistema deve permitir o gerenciamento de cliente.
+RF005	Gerenciamento de Pedido	O sistema deve permitir o gerenciamento de pedido.
+RF006	Definição de lote de pedidos	O sistema deve permitir o usuário definir o lote de pedido.
+RF007	Visualização dos pedidos em um mapa	O sistema deve apresentar um mapa interativo com informações dos pedidos, e sua respectiva localização.
+RF008	Exibição da melhor rota de entrega	O sistema deve apresentar a melhor rota de entrega a partir do lote pré-definido.
+RF009	Geração de Relatório	O sistema deve permitir a geração de relatório;
+RF010	Gerenciamento do cadastro da empresa.	O sistema deve permitir o gerenciamento do cadastro da empresa que adquiriu o sistema.
+RF011	Despacho do lote de pedidos para entrega	O sistema deve permitir o usuário despachar o lote de pedidos.

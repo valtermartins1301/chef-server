@@ -1,0 +1,25 @@
+{
+  "name": "chef-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -t 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valtermartins1301/chef-server.git"
+  },
+  "author": "Valter Martins jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valtermartins1301/chef-server/issues"
+  },
+  "homepage": "https://github.com/valtermartins1301/chef-server",
+  "dependencies": {
+    "hapi": "^10.0.0",
+    "hapi-swagger": "^2.0.0",
+    "joi": "^6.7.1",
+    "lab": "^5.17.0"
+  }
+}
